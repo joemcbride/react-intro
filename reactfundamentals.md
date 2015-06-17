@@ -135,7 +135,7 @@ PostList.propTypes = {
 # Next Steps
 
 * Flux
-* Isomorphic Flux (Fluxible)
+* Isomorphic React / Flux (Fluxible)
 * Relay + GraphQL
 * React Native (iOS & Android)
 
